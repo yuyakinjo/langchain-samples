@@ -1,0 +1,12 @@
+{
+  "name": "langchain-samples",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "@typescript-eslint/parser": "^7.0.2",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  },
+  "type": "module"
+}
