@@ -1,6 +1,6 @@
 import { StringOutputParser } from "@langchain/core/output_parsers";
 import { ChatPromptTemplate } from "@langchain/core/prompts";
-import { chatModel } from "@quickstart/openai";
+import { chatModel } from "@quickstart/1_openai";
 
 const outputParser = new StringOutputParser();
 
